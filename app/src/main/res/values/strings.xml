@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChatAppAI</string>
+    <string name="search_user">Search User</string>
+    <string name="add_conversation">Add Conversation</string>
+    <string name="not_fetched">not fetched</string>
+    <string name="unknown">Unknown</string>
+    <string name="navigating_in_2_seconds">Profile saved...</string>
+    <string name="error_loading_messages">Error loading messages</string>
+</resources>
